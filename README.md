@@ -1,16 +1,7 @@
 # AIgor
 
-Directions for how to modify this and todos for what should be changed.
+A Rust AI Agent POC
 
-## ToDo
+## Modifying the Agents
 
-- Modify the aifunc function in the ai_functions directory
-- Git repo access via Rust Gix or Git2 crate
-- Local working directory
-- use env for git access, setup keys for ai
-
-## 
-
-
-
-##
+Currently the agents create a website. A more generalized and flexible, modular environment is the goal.
